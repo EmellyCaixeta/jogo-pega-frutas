@@ -92,9 +92,7 @@ O **Pega-Frutas** é um jogo em que o jogador controla um cesto que deve captura
 
 ## 👤 Autor
 
-Desenvolvido por **Emelly Caixeta** 
-Disciplina: Programação Orientada a Objetos II  
-Faculdade: Anhanguera   
+Projeto desenvolvido por Emelly Vitoria Caixeta para a disciplina de Programação Orientada a Objetos II - Anhanguera de Uberlândia 
 
 ---
 
